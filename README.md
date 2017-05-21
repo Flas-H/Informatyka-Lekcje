@@ -1,1 +1,1 @@
-:/play rimshot
+/play rimshot

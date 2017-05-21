@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="E:\C++\Procedural\Zadania Informatyka\Zadania Informatyka.workspace">
+  <int Value="1" Name="m_selectedTab"/>
+  <wxString Value="E:\C++\Procedural\Zadania Informatyka\Zadania Informatyka.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="E:\C++\Procedural\Zadania Informatyka\SelectionSort\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="17" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds">
+        <IntVectorItem Value="32"/>
+        <IntVectorItem Value="54"/>
+      </IntVector>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="E:\C++\Procedural\Zadania Informatyka\BogSort\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="6" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>

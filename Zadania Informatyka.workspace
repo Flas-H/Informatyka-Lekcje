@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Zadania Informatyka" Database="" Version="10.0.0">
+  <Project Name="fdh" Path="fdh/fdh.project" Active="No"/>
+  <Project Name="fdgfh" Path="fdgfh/fdgfh.project" Active="No"/>
+  <Project Name="dfhdfgasd" Path="dfhdfgasd/dfhdfgasd.project" Active="No"/>
+  <Project Name="primes" Path="../primes/primes/primes.project" Active="No"/>
+  <Project Name="pileczka" Path="pileczka/pileczka.project" Active="No"/>
+  <Project Name="SelectionSort" Path="SelectionSort/SelectionSort.project" Active="No"/>
+  <Project Name="AnagramMatura2k6" Path="AnagramMatura2k6/AnagramMatura2k6.project" Active="No"/>
+  <Project Name="Slowa" Path="Slowa/Slowa.project" Active="No"/>
+  <Project Name="hasla" Path="hasla/hasla.project" Active="No"/>
+  <Project Name="statystyki_tekstu" Path="statystyki_tekstu/statystyki_tekstu.project" Active="No"/>
+  <Project Name="tajemniczy_szyfr_SZF" Path="tajemniczy_szyfr_SZF/tajemniczy_szyfr_SZF.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="fdh" ConfigName="Debug"/>
+      <Project Name="fdgfh" ConfigName="Debug"/>
+      <Project Name="dfhdfgasd" ConfigName="Debug"/>
+      <Project Name="primes" ConfigName="Debug"/>
+      <Project Name="pileczka" ConfigName="Debug"/>
+      <Project Name="SelectionSort" ConfigName="Debug"/>
+      <Project Name="AnagramMatura2k6" ConfigName="Debug"/>
+      <Project Name="Slowa" ConfigName="Debug"/>
+      <Project Name="hasla" ConfigName="Debug"/>
+      <Project Name="statystyki_tekstu" ConfigName="Debug"/>
+      <Project Name="tajemniczy_szyfr_SZF" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="fdh" ConfigName="Release"/>
+      <Project Name="fdgfh" ConfigName="Release"/>
+      <Project Name="dfhdfgasd" ConfigName="Release"/>
+      <Project Name="primes" ConfigName="Release"/>
+      <Project Name="pileczka" ConfigName="Release"/>
+      <Project Name="SelectionSort" ConfigName="Release"/>
+      <Project Name="AnagramMatura2k6" ConfigName="Release"/>
+      <Project Name="Slowa" ConfigName="Release"/>
+      <Project Name="hasla" ConfigName="Release"/>
+      <Project Name="statystyki_tekstu" ConfigName="Release"/>
+      <Project Name="tajemniczy_szyfr_SZF" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

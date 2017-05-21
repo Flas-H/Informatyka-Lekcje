@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ statystyki_tekstu - Debug ]----------"
-	@cd "statystyki_tekstu" && "$(MAKE)" -f  "statystyki_tekstu.mk"
+	@echo "----------Building project:[ SZF_Tajemniczy_szyfr - Debug ]----------"
+	@cd "SZF_Tajemniczy_szyfr" && "$(MAKE)" -f  "SZF_Tajemniczy_szyfr.mk"
 clean:
-	@echo "----------Cleaning project:[ statystyki_tekstu - Debug ]----------"
-	@cd "statystyki_tekstu" && "$(MAKE)" -f  "statystyki_tekstu.mk" clean
+	@echo "----------Cleaning project:[ SZF_Tajemniczy_szyfr - Debug ]----------"
+	@cd "SZF_Tajemniczy_szyfr" && "$(MAKE)" -f  "SZF_Tajemniczy_szyfr.mk" clean

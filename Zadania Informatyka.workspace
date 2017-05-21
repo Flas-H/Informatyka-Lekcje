@@ -10,7 +10,7 @@
   <Project Name="Slowa" Path="Slowa/Slowa.project" Active="No"/>
   <Project Name="hasla" Path="hasla/hasla.project" Active="No"/>
   <Project Name="statystyki_tekstu" Path="statystyki_tekstu/statystyki_tekstu.project" Active="No"/>
-  <Project Name="tajemniczy_szyfr_SZF" Path="tajemniczy_szyfr_SZF/tajemniczy_szyfr_SZF.project" Active="Yes"/>
+  <Project Name="SZF_Tajemniczy_szyfr" Path="SZF_Tajemniczy_szyfr/SZF_Tajemniczy_szyfr.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -24,7 +24,7 @@
       <Project Name="Slowa" ConfigName="Debug"/>
       <Project Name="hasla" ConfigName="Debug"/>
       <Project Name="statystyki_tekstu" ConfigName="Debug"/>
-      <Project Name="tajemniczy_szyfr_SZF" ConfigName="Debug"/>
+      <Project Name="SZF_Tajemniczy_szyfr" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -38,7 +38,7 @@
       <Project Name="Slowa" ConfigName="Release"/>
       <Project Name="hasla" ConfigName="Release"/>
       <Project Name="statystyki_tekstu" ConfigName="Release"/>
-      <Project Name="tajemniczy_szyfr_SZF" ConfigName="Release"/>
+      <Project Name="SZF_Tajemniczy_szyfr" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

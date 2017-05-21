@@ -1,1 +1,1 @@
-:shipit #Programy na lekcje
+:shipit: :+1: # Programy na lekcje

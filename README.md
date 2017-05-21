@@ -1,1 +1,1 @@
-/play rimshot
+:shipit: #Programy na lekcje

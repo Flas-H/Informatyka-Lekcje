@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ SZF_Tajemniczy_szyfr - Debug ]----------"
-	@cd "SZF_Tajemniczy_szyfr" && "$(MAKE)" -f  "SZF_Tajemniczy_szyfr.mk"
+	@echo "----------Building project:[ Szyfr_Cezara - Debug ]----------"
+	@cd "Szyfr_Cezara" && "$(MAKE)" -f  "Szyfr_Cezara.mk"
 clean:
-	@echo "----------Cleaning project:[ SZF_Tajemniczy_szyfr - Debug ]----------"
-	@cd "SZF_Tajemniczy_szyfr" && "$(MAKE)" -f  "SZF_Tajemniczy_szyfr.mk" clean
+	@echo "----------Cleaning project:[ Szyfr_Cezara - Debug ]----------"
+	@cd "Szyfr_Cezara" && "$(MAKE)" -f  "Szyfr_Cezara.mk" clean

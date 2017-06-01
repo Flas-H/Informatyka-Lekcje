@@ -5,15 +5,15 @@
 ## Debug
 ProjectName            :=statystyki_tekstu
 ConfigurationName      :=Debug
-WorkspacePath          :="D:/C++/Procedural/Zadania Informatyka"
-ProjectPath            :="D:/C++/Procedural/Zadania Informatyka/statystyki_tekstu"
+WorkspacePath          :=D:/C++/Procedural/informatyka-lekcje
+ProjectPath            :=D:/C++/Procedural/informatyka-lekcje/statystyki_tekstu
 IntermediateDirectory  :=./Debug
 OutDir                 := $(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=piotr
-Date                   :=04/04/2017
+Date                   :=01/06/2017
 CodeLitePath           :=E:/Programy/CodeLite
 LinkerName             :=E:/Programy/CodeBlocks/MinGW/bin/g++.exe
 SharedObjectLinkerName :=E:/Programy/CodeBlocks/MinGW/bin/g++.exe -shared -fPIC
@@ -94,7 +94,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp $(IntermediateDirectory)/main.cpp$(DependSuffix)
-	$(CXX) $(IncludePCH) $(SourceSwitch) "D:/C++/Procedural/Zadania Informatyka/statystyki_tekstu/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "D:/C++/Procedural/informatyka-lekcje/statystyki_tekstu/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(DependSuffix): main.cpp
 	@$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) -MG -MP -MT$(IntermediateDirectory)/main.cpp$(ObjectSuffix) -MF$(IntermediateDirectory)/main.cpp$(DependSuffix) -MM main.cpp
 
